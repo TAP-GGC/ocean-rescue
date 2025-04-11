@@ -1,6 +1,20 @@
 # Ocean Rescue
-<h2>Description:<br><br></h2>
+<h2>About<br><br></h2>
 Ocean Rescue is a game similar to Pac-Man that encourages two players to collect points and defeat enemies in order to obtain the highest score. Ocean Rescue uses Scratch which  is a block-based visual programming language that you can use to create interative games. Makey-Makey is also used In this game we will be teaching if/then else statements and forever loops. This game is proposed to encourage individuals to develop an interest in computer programming and language.<br><br>
+
+## Project Information
+* Difficulty Level:
+* Target Audience:
+* Duration of Workshop
+* Needed Materials:
+* Learning Outcomes:
+* Main Technology:
+* The Technology Ambassador Program ([TAP](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program)) at GGC strives to break the misconceptions of the IT field by providing fun workshops for students of all backgrounds. TAP students design engaging and fun outreach workshops to encourage interest in IT and STEM.
+
+
+
+
+
 <h2>Programs:</h2><br>
 <ol>~Scratch<br>
 ~Makey Makey<br>
