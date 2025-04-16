@@ -6,7 +6,7 @@ Ocean Rescue is a game similar to Pac-Man that encourages two players to collect
 ## :bulb: Project Information
 * Difficulty Level:
 * Target Audience:
-* Duration of Workshop
+* Duration of Workshop: 60 - 90 minutes
 * Needed Materials: Desktop or Laptop with an operating system of Windows 8 and higher or MAC OS
 * Learning Outcomes: To teach if/then else statements and forever loops.
 * Main Technology: Scratch, a free block coding language.
