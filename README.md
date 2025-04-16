@@ -1,7 +1,7 @@
 # Ocean Rescue
 
 ## :loudspeaker: About
-Ocean Rescue is a game similar to Pac-Man that encourages two players to collect points and defeat enemies in order to obtain the highest score. Ocean Rescue uses Scratch which  is a block-based visual programming language that you can use to create interative games. Makey-Makey is also used. In this game, we will be teaching if/then else statements and forever loops. This game is proposed to encourage individuals to develop an interest in computer programming and language.<br><br>
+Ocean Rescue is a game similar to Pac-Man that encourages two players to collect points and defeat enemies to obtain the highest score. Ocean Rescue uses Scratch, a block-based visual programming language that you can use to create interactive games. Makey-Makey is also used. In this game, we will be teaching if/then else statements and forever loops. This game is proposed to encourage individuals to develop an interest in computer programming and languages.<br><br>
 
 ## :bulb: Project Information
 * Difficulty Level:
@@ -19,7 +19,7 @@ Ocean Rescue is a game similar to Pac-Man that encourages two players to collect
 * Haya Alghazouli
   
 ## :mortar_board: Advisors
-* Dr. Anca Doluc-Mihu
+* Dr. Anca Doloc-Mihu
 * Dr. Cindy Robertson
 
 ## :page_with_curl: Project Description
